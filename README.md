@@ -41,14 +41,14 @@
 │  │                                                               │
 │  │   NAME        ›  Nicolas Mendes                               │
 │  │   HANDLE      ›  @nicolasmendesdev                            │
-│  │   ORIGIN      ›  🇧🇷 Brazil                                   │
-│  │   ROLE        ›  Software Engineer & Cybersecurity Student     │
-│  │   MISSION     ›  Build systems that scale & withstand attacks  │
+│  │   ORIGIN      ›  🇧🇷 Brazil                                    │
+│  │   ROLE        ›  Software Engineering & Cybersecurity Student │
+│  │   MISSION     ›  Build systems that scale & withstand attacks │
 │  │   STACK       ›  Full-Stack  |  Cloud  |  Security  |  AI     │
 │  │   LANGUAGES   ›  Portuguese (native)  |  English (advanced)   │
 │  │   OS          ›  Linux (always)                               │
 │  │   PHILOSOPHY  ›  "Assume breach. Engineer resilience."        │
-│  │   STATUS      ›  [■■■■■■■■■░]  Leveling up...                │
+│  │   STATUS      ›  [■■■■■■■■■░]  Leveling up...                 │
 │  │                                                               │
 │  └───────────────────────────────────────────────────────────────┘
 │
